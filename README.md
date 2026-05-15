@@ -53,6 +53,12 @@ Madhu-Marga is an Android application developed using Kotlin and Jetpack Compose
 - Weather API Integration
 
 ---
+## 📸 Screenshots
+
+![Home Screen](<img width="1080" height="2400" alt="Screenshot_20260515_212657" src="https://github.com/user-attachments/assets/47ecb379-0fde-46b7-8721-456fa8277ec6" />
+)
+<img width="1080" height="2400" alt="Screenshot_20260515_212918" src="https://github.com/user-attachments/assets/71ffe88d-a0d6-49b8-8b02-8b694fd96ab7" />
+
 
 ## 👩‍💻 Developed By
 Amrutha Lalsangi
